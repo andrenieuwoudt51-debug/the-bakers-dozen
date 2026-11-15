@@ -1,0 +1,1 @@
+{"rewrites":[{"source":"/start-test-payment","destination":"https://pemnnfxzrhhbeveckgps.supabase.co/functions/v1/bakers-dozen-checkout"}]}
